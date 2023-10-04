@@ -13,7 +13,7 @@
 Breaking any of these rules will result in your pull request being closed. Please follow these guidelines above all else:
 
 - **Always be polite and respectful to others** and try to follow the advice of the moderators/collaborators/owners.
-- **Only create or modify snippet and collecton files**, never touch the `assets` or `languages` directories or any of the files in the root directory.
+- **Only create or modify snippet and collection files**, never touch the `assets` or `languages` directories or any of the files in the root directory.
 - **Use existing templates for snippets and collections**, ensuring to follow guidelines and that files are in the correct location.
 - **Follow snippet and collection format exactly**, otherwise your content will not be recognized correctly by the tools responsible for publishing them on the website. Consult the templates or previous snippets/collections if you are unsure.
 - **Snippets should solve real-world problems**, no matter how simple and should be abstract enough to be applied to different scenarios.
@@ -56,7 +56,7 @@ In order to create a new collection, you should follow the steps below:
 
 ## Collection guidelines
 
-- Collections must habe all their metadata sections (title, splash, description etc.) filled.
+- Collections must have all their metadata sections (title, splash, description etc.) filled.
 - Collection filenames must be in `kebab-case` and end in `.yaml`. Use SEO-friendly names and avoid unnecessary words.
 - Collection titles must loosely correspond to the filename and follow the language and repository's naming conventions.
 - Collection descriptions must be short and to the point. Briefly explain the topic of the collection.
